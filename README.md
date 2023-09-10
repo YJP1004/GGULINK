@@ -1,9 +1,9 @@
-# 꾸탐 이용 가이드
+# 꾸링크 이용 가이드
 
-# e-Mail: killingtime794@gmail.com
+# e-Mail: guya.jjing@gmail.com
 
 
-## 1️⃣  식사시작과 함께 시작 버튼을 터치하면 위염위험도가 낮은 식사시간을 알려드려요.
+##  다시 방문하고 싶은 링크를 저장할 수 있어요.
 <p align="center">
   <br>
   <img src="1.png" width="200">
